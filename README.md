@@ -10,10 +10,11 @@
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-AI--Assisted_Development-5A45FF?style=flat-square)
+![Meta Horizon Worlds](https://img.shields.io/badge/Meta_Horizon_Worlds-XR_Development-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-I’m a full-stack software engineer focused on designing, modernizing, and delivering business applications across web, API, database, desktop, and AI-assisted development environments.
+I’m a full-stack software engineer focused on designing, modernizing, and delivering business applications across web, API, database, desktop, AI-assisted development, and immersive XR environments.
 
-My recent work combines **C# / .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Entity Framework Core, Electron, Azure, and AI-assisted software engineering** to build and modernize production business applications.
+My recent work combines **C# / .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Entity Framework Core, Electron, Azure, AI-assisted software engineering, and Meta Horizon Worlds development** to build and explore production, enterprise, and immersive digital experiences.
 
 I use AI throughout the software development lifecycle—not simply for code generation, but as an engineering tool for **architecture analysis, debugging, refactoring, modernization, documentation, testing, data analysis, and accelerated problem solving**.
 
@@ -30,6 +31,22 @@ I use AI throughout the software development lifecycle—not simply for code gen
 - Human-reviewed AI development workflows
 
 My approach is to combine AI capabilities with established software-engineering practices, keeping **architecture, maintainability, security, testing, and human engineering judgment** at the center of the development process.
+
+## 🥽 Meta Horizon Worlds Development
+
+I also develop and experiment with immersive experiences in **Meta Horizon Worlds for Meta Quest**, extending my software-development background into spatial and interactive environments.
+
+My Horizon Worlds work includes:
+
+- Immersive world creation and spatial experience design
+- Interactive experience development
+- World logic and behavior design
+- Rapid prototyping of immersive concepts
+- User interaction and experience flow
+- Iterative testing and refinement in Meta Quest environments
+- Exploring the intersection of AI, software engineering, and immersive computing
+
+This work gives me an additional development perspective beyond traditional web and desktop applications, particularly around **spatial interaction, immersive user experiences, prototyping, and emerging computing platforms**.
 
 ## 🛠️ Technology Stack
 
@@ -73,9 +90,16 @@ My approach is to combine AI capabilities with established software-engineering 
 - Dynamics 365
 - Power BI
 
+**XR & Immersive Development**
+- Meta Horizon Worlds
+- Meta Quest
+- Spatial experience design
+- Interactive world development
+- Immersive prototyping
+
 ## 🚀 Engineering Experience
 
-My work frequently spans the entire application stack—from database architecture and backend APIs to front-end applications, desktop integration, deployment, and AI-assisted engineering workflows.
+My work frequently spans the entire application stack—from database architecture and backend APIs to front-end applications, desktop integration, deployment, AI-assisted engineering workflows, and immersive experience development.
 
 Recent engineering work includes:
 
@@ -90,6 +114,7 @@ Recent engineering work includes:
 - Migrating and reconciling production data
 - Supporting distributed engineering teams
 - Applying AI to architecture, development, debugging, refactoring, documentation, and modernization
+- Developing and prototyping immersive experiences in Meta Horizon Worlds
 
 ## 🧠 Engineering Focus
 
@@ -99,6 +124,7 @@ Angular / TypeScript
 SQL Server / EF Core
 REST API Architecture
 AI-Assisted Development
+Meta Horizon Worlds / XR
 Application Modernization
 Electron / Desktop Integration
 Azure / Cloud Technologies
@@ -107,12 +133,12 @@ Technical Leadership
 
 ## 📌 Current Focus
 
-My current focus is the intersection of **full-stack engineering, application modernization, and AI-assisted software development**.
+My current focus is the intersection of **full-stack engineering, application modernization, AI-assisted software development, and emerging immersive technologies**.
 
-I’m particularly interested in using AI to increase engineering velocity while maintaining the qualities that production software still requires: **sound architecture, understandable code, security, reliability, maintainability, and human accountability**.
+I’m particularly interested in using AI and new computing platforms to increase engineering capability while maintaining the qualities that production software still requires: **sound architecture, understandable code, security, reliability, maintainability, and human accountability**.
 
 ---
 
 ### 🤝 Let's Connect
 
-I'm interested in **Senior and Lead Full-Stack Engineering** opportunities involving .NET, Angular, enterprise application architecture, modernization, AI-assisted development, and technical leadership.
+I'm interested in **Senior and Lead Full-Stack Engineering** opportunities involving .NET, Angular, enterprise application architecture, modernization, AI-assisted development, immersive technology, and technical leadership.
