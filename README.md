@@ -2,6 +2,15 @@
 
 ### Senior / Lead Full-Stack Software Engineer | AI-Assisted Development
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative_AI-AI--Assisted_Development-5A45FF?style=flat-square)
+
 I’m a full-stack software engineer focused on designing, modernizing, and delivering business applications across web, API, database, desktop, and AI-assisted development environments.
 
 My recent work combines **C# / .NET, ASP.NET Core, Angular, TypeScript, SQL Server, Entity Framework Core, Electron, Azure, and AI-assisted software engineering** to build and modernize production business applications.
